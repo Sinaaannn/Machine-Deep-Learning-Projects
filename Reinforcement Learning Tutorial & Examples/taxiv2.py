@@ -29,7 +29,7 @@ Actions:
     - 3: move west 
     - 4: pickup passenger
     - 5: dropoff passenger
-
+Example:
 {0: [(1.0, 430, -1, False)],
  1: [(1.0, 230, -1, False)],
  2: [(1.0, 350, -1, False)], 
